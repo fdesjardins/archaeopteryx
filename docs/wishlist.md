@@ -1,0 +1,10 @@
+- [ ] protocol for communication between servers and clients
+- [ ] web interface for drone stats
+- [ ] command-line interface for controlling drones
+- [ ] modules for mapping game controller input to commands
+- [ ] protocol for communication between clients
+- [ ] commands for uploading client software
+- [ ] virtual reality interface
+- [ ] web interface for controlling drones
+- [ ] security modules
+- [ ] udp control
